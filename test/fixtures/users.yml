@@ -3,3 +3,9 @@ antonio:
   last_name: "Zdelican"
   email: "antonio@gmail.com"
   profile_name: "antonio"
+
+ivan:
+  first_name: "Ivan"
+  last_name: "Zdelican"
+  email: "ivan@gmail.com"
+  profile_name: "ivan"
